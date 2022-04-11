@@ -1,14 +1,16 @@
+# 🌎 Weather
 <img alt="Weather" src="assets/logo.png" width="64"/>
 
+# 📸 Screenshots
 <p align="center">
   <img alt="weather app screenshot 1"
-        src="assets/screenshot1.png" height="633" />
+        src="assets/screenshot1.png" height="300" />
   <img alt="weather app screenshot 1"
-        src="assets/screenshot2.png" height="633" />
+        src="assets/screenshot2.png" height="300" />
   <img alt="weather app screenshot 1"
-        src="assets/screenshot-light1.png" height="633" />
+        src="assets/screenshot-light1.png" height="300" />
   <img alt="weather app screenshot 1"
-        src="assets/screenshot-light2.png" height="633" />
+        src="assets/screenshot-light2.png" height="300" />
 </p>
 
 # 🚀 Getting Started
