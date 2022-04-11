@@ -5,6 +5,10 @@
         src="assets/screenshot1.png" height="633" />
   <img alt="weather app screenshot 1"
         src="assets/screenshot2.png" height="633" />
+  <img alt="weather app screenshot 1"
+        src="assets/screenshot-light1.png" height="633" />
+  <img alt="weather app screenshot 1"
+        src="assets/screenshot-light2.png" height="633" />
 </p>
 
 # 🚀 Getting Started
